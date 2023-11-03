@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.cart-image {
+  height: 150px;
+  width: 150px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cart-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  margin-top: 10px;
+}
